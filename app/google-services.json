@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "420666576559",
+    "firebase_url": "https://signup-78e75.firebaseio.com",
+    "project_id": "signup-78e75",
+    "storage_bucket": "signup-78e75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420666576559:android:b0962feed31b4ac5",
+        "android_client_info": {
+          "package_name": "android.elviera.com.loginsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420666576559-2ruhm9u8d0m4mrk8pptpjuc5isqmc3ug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3wc6CaM_opJmWUlBmOUbaVq3VKDC_zxk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
