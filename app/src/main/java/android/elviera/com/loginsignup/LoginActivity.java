@@ -48,7 +48,7 @@ public class LoginActivity extends AppCompatActivity {
     }
 
     public void tmblDaftar(View v){
-        showToast("Aksi belum tersedia");
+        startActivity(new Intent(this,SignUpActivity.class));
     }
 
     public void tmblLupaPass(View v){
