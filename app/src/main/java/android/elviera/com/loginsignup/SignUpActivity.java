@@ -95,6 +95,7 @@ public class SignUpActivity extends AppCompatActivity {
                             mUser.setKey(mAuthUser.getUid());
                             String userId = tbUser.push().getKey();
                             tbUser.child(userId).setValue(mUser);
+                            Toast.makeText(SignUpActivity.this, "Berhasil Daftar", Toast.LENGTH_SHORT).show();
                         }else{
                             Toast.makeText(SignUpActivity.this, "Gagal Daftar", Toast.LENGTH_SHORT).show();
                         }
